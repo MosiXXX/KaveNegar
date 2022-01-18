@@ -1,0 +1,14 @@
+﻿<Window x:Class="Kavenegar.TechnicalEvaluation.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kavenegar.TechnicalEvaluation.UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="btnSelectExcel" Content="Select File ..." HorizontalAlignment="Left" Height="42" Margin="370,115,0,0" VerticalAlignment="Top" Width="199" Click="Button_Click"/>
+        <Label Name="lblInsertStatus"  Content="_" HorizontalAlignment="Left" Margin="583,123,0,0" VerticalAlignment="Top" Width="134"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\bin\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.deps.json
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\bin\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.runtimeconfig.json
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\bin\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.dll
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\bin\Debug\net6.0\ref\Kavenegar.TechnicalEvaluation.FileManager.dll
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\bin\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.pdb
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.AssemblyInfo.cs
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.dll
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\ref\Kavenegar.TechnicalEvaluation.FileManager.dll
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.pdb
+C:\Users\User\source\repos\Kavenegar.TechnicalEvaluation\Kavenegar.TechnicalEvaluation.FileManager\obj\Debug\net6.0\Kavenegar.TechnicalEvaluation.FileManager.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kavenegar.TechnicalEvaluation.FileManager", "Kavenegar.TechnicalEvaluation.FileManager\Kavenegar.TechnicalEvaluation.FileManager.csproj", "{D134ABEB-FA1D-4155-B070-754DB8F966C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kavenegar.TechnicalEvaluation.UI", "Kavenegar.TechnicalEvaluation.UI\Kavenegar.TechnicalEvaluation.UI.csproj", "{DA9080DE-D192-49AF-A787-8ED264ABE45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D134ABEB-FA1D-4155-B070-754DB8F966C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D134ABEB-FA1D-4155-B070-754DB8F966C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D134ABEB-FA1D-4155-B070-754DB8F966C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D134ABEB-FA1D-4155-B070-754DB8F966C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9080DE-D192-49AF-A787-8ED264ABE45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9080DE-D192-49AF-A787-8ED264ABE45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9080DE-D192-49AF-A787-8ED264ABE45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9080DE-D192-49AF-A787-8ED264ABE45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96984C83-39F7-499F-84EE-A60DE2B37B91}
+	EndGlobalSection
+EndGlobal

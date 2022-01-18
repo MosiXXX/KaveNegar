@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "457fa86b-46f0-46a0-8913-901471c238fe": {
+      "ProjectGuid": "457fa86b-46f0-46a0-8913-901471c238fe",
+      "DisplayName": "Kavenegar.TechnicalEvaluation.FileManager",
+      "ColorIndex": 0
+    },
+    "d134abeb-fa1d-4155-b070-754db8f966c7": {
+      "ProjectGuid": "d134abeb-fa1d-4155-b070-754db8f966c7",
+      "DisplayName": "Kavenegar.TechnicalEvaluation.FileManager",
+      "ColorIndex": 1
+    },
+    "da9080de-d192-49af-a787-8ed264abe45d": {
+      "ProjectGuid": "da9080de-d192-49af-a787-8ed264abe45d",
+      "DisplayName": "Kavenegar.TechnicalEvaluation.UI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
